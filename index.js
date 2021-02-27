@@ -46,13 +46,13 @@ blocked = []
 prefix = '#'
 limitawal = 30
 memberlimit = 0
-ator = 'AMEL cans'
+ator = 'kawai cans'
 namo = 'jangan colong'
 cr = '*BOT INI SUDAH TERVERIFIKASI*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["62895710073737@s.whatsapp.net","6282334297175@s.whatsapp.net"] 
+const ownerNumber = ["62895710073737@s.whatsapp.net","6285755375996@s.whatsapp.net"] 
 /************************************/
 
        
